@@ -1,0 +1,8 @@
+{
+  "env": {
+    "NODE_PATH": "src",
+    "NODE_ENV": "development",
+    "JWT_SECRET": "supersecret!!!!"
+  },
+  "exec": ["ts-node"]
+}
