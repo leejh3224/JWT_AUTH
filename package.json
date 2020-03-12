@@ -24,7 +24,7 @@
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
-    "ts-node": "^5.0.1",
+    "ts-node": "^8.0.0",
     "typescript": "^2.8.1",
     "snyk": "^1.235.0"
   },
